@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="youtube.css">
+    <meta charset="utf-8">
+    <title>youtube</title>
+  </head>
+  <body>
+
+    <!-- /* HEADER */ -->
+<header>
+ <div class="contenitore-barra-alta">
+  <div class="bottoncino">
+      <img src="youtube1.png" alt="n">
+  </div>
+  <div class="logo">
+      <img src="youtube2.png" alt="">
+  </div>
+
+  <div class="ricerca">
+    <div class="contenitore-ricerca">
+
+      <div class="cerca">
+          <input class="dimensioni-cerca" type="search" placeholder="cerca">
+      </div>
+      <div class="tastocerca">
+        <input class="dimensioni-cerca" type="submit" value="&#x1f50d;">
+
+
+
+      </div>
+    </div>
+
+  </div>
+
+   <div class="loghi-intestazione">
+
+     <div class="loghini">
+       <span class="loghini-dimenzione" >&#128247;</span>
+     </div>
+     <div class="loghini">
+       <span class="loghini-dimenzione">&#128276;</span>
+     </div>
+     <div class="loghini">
+       <img class="loghini-dimenzione" src="boolean_logo.png" alt="">
+     </div>
+
+   </div>
+
+ </div>
+
+</header>
+
+<!-- /* Barra laterale */ -->
+<nav>
+
+ <div class="contenitore-barra-laterale">
+   <div class="blocchetti">
+    <div   class="blocchetti-dimenzione">&#127968;</div  >
+    <div   class="testoblocchetti testoblocchettirossohome"> home</div  >
+
+   </div>
+   <div class="blocchetti">
+     <div class="blocchetti-dimenzione">&#128293;</div>
+     <div class="testoblocchetti">tendenze</div>
+   </div>
+   <div class="blocchetti">
+    <div class="blocchetti-dimenzione">&#128193;</div>
+    <div class="testoblocchetti">raccolta</div>
+   </div>
+
+ </div>
+
+</nav>
+
+<!-- /* MAIN Album */ -->
+<main>
+
+  <div class="contenitore-principale">
+
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_1.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Ti accompagno a lavoro-Episodio 1</h3>
+         <p>Boolean careers  <br> 250.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_2.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Da giocatore di poker-Episodio 1</h3>
+         <p>Boolean careers  <br> 50.245 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_3.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Se è tropo lungo si rompe  </h3>
+         <p>Boolean careers  <br> 270.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_4.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Facciamo una gara</h3>
+         <p>Boolean careers  <br> 880.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_5.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>siamo all'expo-Episodio 1</h3>
+         <p>Boolean careers  <br> 3.750.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_6.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Viaggio in macchina-Episodio 1</h3>
+         <p>Boolean careers  <br> 750.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_7.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Ti accompagno a scuola-Episodio 1</h3>
+         <p>Boolean careers  <br> 50.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+   <a href="#" class="video">
+      <div class="videotop">
+        <img src="accompagno_8.jpg" alt="">
+      </div>
+
+      <div class="video-bottom">
+        <div class="video-img-bot">
+        <img src="boolean_logo.png" alt="">
+        </div>
+        <div class="video-scritta-bot">
+         <h3>Ti accompagno a lavoro-Episodio 2</h3>
+         <p>Boolean careers  <br> 150.000 visualizzazini </p>
+       </div>
+     </div>
+   </a>
+
+
+ </div>
+
+</main>
+
+
+
+  </body>
+</html>
